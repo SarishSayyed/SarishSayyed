@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SarishSayyed
 - 👀 I’m interested in learning new technologies...
 - 🌱 I’m currently learning Microsoft Azure Services...
-- 💞️ I’m looking to collaborate on well nothing as of now :)
+- 💞️ I’m looking to collaborate on..... well nothing as of now :)
 - 📫 How to reach me... uhh don't.
 
 <!---
